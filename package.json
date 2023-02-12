@@ -1,6 +1,7 @@
 {
   "name": "constrained-xml-formatter",
   "displayName": "constrained-xml-formatter",
+  "repository": {"url": "https://github.com/caiodanielnunessantos/constrained-xml-formatter" },
   "description": "",
   "version": "1.0.0",
   "engines": {
